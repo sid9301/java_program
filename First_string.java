@@ -6,11 +6,11 @@ public class First_string {
         /*
          * literal string 
            * String str = "this is literal string type";
-           * not new object is create if string pool exists
+           *  new object is create 
            * this is static memory
            * 
          * using new keyword
-          *String str1 = new String("new object is created");
+          *String str1 = new String("not new object is created");
           * this is head memory  
          */
     }
